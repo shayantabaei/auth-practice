@@ -19,6 +19,10 @@ Angular app using Angular CLI (todo)
 Authenticating the angular app (todo)
 
 #Steps
-To run server, run nodemon server.js inside server folder
+To run server:
+
+run nodemon server.js inside server folder
+
 Use mlab.com for the db
+
 Mongoose to translate db data into JSON
