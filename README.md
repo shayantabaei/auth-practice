@@ -2,21 +2,21 @@
 
 #Tasks:
 
-Setup Express Server
+Setup Express Server (done)
 
-Setup MongoDB
+Setup MongoDB (done)
 
 Create RESTful APIS
-    Register new user
-    Login user
-    Fetch regular events
-    Fetch special events
+    Register new user (done)
+    Login user (done)
+    Fetch regular events (done)
+    Fetch special events (done)
 
-Test using Postman
+Test using Postman (done)
 
-Angular app using Angular CLI
+Angular app using Angular CLI (todo)
 
-Authenticating the angular pp
+Authenticating the angular app (todo)
 
 #Steps
 To run server, run nodemon server.js inside server folder
